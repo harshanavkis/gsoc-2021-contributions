@@ -1,6 +1,6 @@
 # Project description
 
-Development of a vhost-user-vsock applicaiton in rust and its integration with kata containers.
+Development of a [vhost-user-vsock applicaiton](https://wiki.qemu.org/Google_Summer_of_Code_2021#vhost-user-vsock_application) in rust and its integration with kata containers.
 
 # Merged PRs/ Code contributions
 
