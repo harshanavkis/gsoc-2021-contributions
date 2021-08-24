@@ -1,6 +1,6 @@
 # Project description
 
-Development of a [vhost-user-vsock application](https://wiki.qemu.org/Google_Summer_of_Code_2021#vhost-user-vsock_application) in rust and its integration with kata containers. This work was done during Google Summer of Code 2021.
+Development of a [vhost-user-vsock application](https://wiki.qemu.org/Google_Summer_of_Code_2021#vhost-user-vsock_application) in rust and its integration with kata containers. This work was done during [Google Summer of Code 2021](https://summerofcode.withgoogle.com/projects/#5271342779203584).
 
 # Merged PRs/ Code contributions
 
