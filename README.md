@@ -26,4 +26,3 @@ Development of a [vhost-user-vsock application](https://wiki.qemu.org/Google_Sum
 # TODO Components
 
 - Integration of the vhost-user-vsock device into kata containers.
-- Add more tests into the vhost-user-vsock device once the testing framework for queues is ready.
